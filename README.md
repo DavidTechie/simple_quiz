@@ -1,16 +1,24 @@
 # simple_quiz
 
-A new Flutter project.
+# Flutter Basic Quiz Application
 
-## Getting Started
+A simple Flutter quiz application designed to test knowledge on Flutter-related topics. The app features multiple-choice questions, a scoring system, and a user-friendly interface built using Flutter's Material Design components.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Multiple-choice questions with shuffled answers.
+- Score tracking for correct and incorrect answers.
+- Summary of results after completing the quiz.
+- Restart option to retake the quiz.
+- Attractive UI with smooth transitions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Start Screen**: Displays the app logo and a button to begin the quiz.
+2. **Questions Screen**: Presents questions one at a time, allowing users to select answers.
+3. **Results Screen**: Shows the total score and a summary of each question with correct and user-selected answers.
+
+## Tech Stack
+
+- Flutter
+- Dart
